@@ -2,14 +2,14 @@
 
 A simple bot to control/automate the mouse clicks for Piano-Tiles game.
 
-Package used: pyautogui
+Package used: `pyautogui`
 
 Installing the dependancies
-pip install pywin32
+`pip install pywin32`
 
-pip install keyboard
+`pip install keyboard`
 
-pip install pyautogui
+`pip install pyautogui`
 
 
 Steps to run the code
