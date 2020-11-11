@@ -12,7 +12,7 @@ Package used: `pyautogui`
 `pip install pyautogui`
 
 
-Steps to run the code
+## Steps to run the code
 1. Install the dependancies.
 2. Open any game of Piano tiles on browser.
 3. Update the tile positions according to your requirement.
